@@ -158,6 +158,16 @@ ul.certificados{
 	line-height: 2em; 
 }
 
+.laravel{
+    margin: 15px;
+}
+
+.laravel ul{
+    padding-left: 30px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
 .row h1{
     margin: 15px;
 }
